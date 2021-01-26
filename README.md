@@ -1,6 +1,6 @@
 # web-love
 
-## Project setup
+## Project setup 构建vue增删改查项目
 ```
 npm install
 ```
